@@ -11,15 +11,15 @@
 </p>
 <hr>
  
-## 💼 Descrição
+### 💼 Descrição
 
-## 📌 Requisitos
+### 📌 Requisitos
 
-## 📆 Plano de Ação
+### 📆 Plano de Ação
 
-## 🔧 Tecnologias Utilizadas
+### 🔧 Tecnologias Utilizadas
 
-## 🎓 Dev Team
+### 🎓 Dev Team
 
 |  Nome   |  Função |    GitHub    |    Linkedin   |
 | :---         |     :---:      |     :---:     |          :---: |
