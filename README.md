@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href ="#💼 Descrição"> Descrição do Projeto </a>  • 
-  <a href ="#📌-Requisitos"> Requisitos </a>  • 
+  <a href ="#📌 Requisitos"> Requisitos </a>  • 
   <a href ="#📆 Plano de Ação"> Plano de Ação </a>  • 
   <a href ="#🔧 Tecnologias Utilizadas"> Tecnologias Utilizadas </a>  • 
   <a href ="#🎓 Dev Team"> Dev Team </a> 
