@@ -27,7 +27,7 @@
 | Luíz Fernando Silva Habaeb | Product Owner | [@GitHub](https://github.com/luizhabaeb)  | [@LinkedIn](https://www.linkedin.com/in/luizhabaeb/)  |
 | Dante Demétrius Pereira Silva  | Desenvolvedor 1 |  [@GitHub]() | [@LinkedIn](https://www.linkedin.com/in/dante-silva-0a2a09a8/) | 
 | Gustavo Kenji Ando | Desenvolvedor 2 | [@GitHub](https://github.com/GustavoAndo) | [@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/) |
-| Júlia Maria Ribeiro Ramos | Desenvolvedor 3 | [@GitHub](https://github.com/jumajubs) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) | 
+| Júlia Maria Santos Barroso | Desenvolvedor 3 | [@GitHub](https://github.com/jumajubs) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) | 
 | Júlia Rafaela Teixeira Andrade Silva | Desenvolvedor 4 | [@GitHub](https://github.com/jufaela) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a) | 
 | Kauã Gustavo Rodriguês Reno | Desenvolvedor 5 | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
 | Luís Henrique Ferreira Souza | Desenvolvedor 6 | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
