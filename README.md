@@ -23,7 +23,7 @@
 
 |  Nome   |  Função |    GitHub    |    Linkedin   |
 | :---         |     :---:      |     :---:     |          :---: |
-| Jonatas Mathias Dallo | Scrum Master | [@GitHub](https://github.com/Jonatas-Dallo) | [@LinkedIn](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)  |
+| Jonatas Mathias Dalló | Scrum Master | [@GitHub](https://github.com/Jonatas-Dallo) | [@LinkedIn](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)  |
 | Luíz Fernando Silva Habaeb | Product Owner | [@GitHub](https://github.com/luizhabaeb)  | [@LinkedIn](https://www.linkedin.com/in/luizhabaeb/)  |
 | Dante Demétrius Pereira Silva  | Desenvolvedor 1 |  [@GitHub]() | [@LinkedIn](https://www.linkedin.com/in/dante-silva-0a2a09a8/) | 
 | Gustavo Kenji Ando | Desenvolvedor 2 | [@GitHub](https://github.com/GustavoAndo) | [@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/) |
