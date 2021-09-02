@@ -20,4 +20,14 @@
 
 ### 🎓 Dev Team
 
-
+|  Nome   |  Função |    GitHub    |    Linkedin   |
+| :---         |     :---:      |     :---:      |          ---: |
+| Jonatas Mathias Dallo | Scrum Master | git status    | git status    |
+| Luiz Fernando Silva Habaeb | Product Owner | git diff      | git diff      |
+| Dante Demétrius Pereira Silva  | Desenvolvedor 1 | git status    | git status    |
+| Gustavo Kenji Ando | Desenvolvedor 2 | git diff      | git diff      |
+| Júlia Maria Ribeiro Ramos | Desenvolvedor 3 | git diff      | git diff      |
+| Júlia Rafaela Teixeira Andrade Silva | Desenvolvedor 4 | git diff      | git diff      |
+| Kauã Gustavo Rodriguês Reno | Desenvolvedor 5 | git diff      | git diff      |
+| Luis Henrique Ferreira Souza | Desenvolvedor 6 | git diff      | git diff      |
+| Maria Eduarda Macedo Braga | Desenvolvedor 7 | git diff      | git diff      |
