@@ -1,4 +1,4 @@
-# <p align="center"> JetSoft
+<h1 align="center"> JetSoft </h1>
 
 <hr>
 <p align="center">
