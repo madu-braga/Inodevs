@@ -1,6 +1,7 @@
-<h1 align="center"> JetSoft </h1>
+# <p align="center"> JetSoft </center>
 
 <hr>
+
 <p align="center">
   <a href ="#💼 Descrição"> Descrição do Projeto </a>  • 
   <a href ="#📌 Requisitos"> Requisitos </a>  • 
