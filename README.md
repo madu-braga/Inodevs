@@ -13,32 +13,6 @@
  
 ### 💼 Descrição
 
-ttttttttttttttttt
-t
-t
-t
-t
-t
-t
-t
-tt
-t
-
-tt
-
-t
-t
-t
-t
-
-t
-t
-t
-
-t
-t
-t
-
 ### 📌 Requisitos
 
 ### 📆 Plano de Ação
