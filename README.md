@@ -29,7 +29,7 @@
 | Gustavo Kenji Ando | Desenvolvedor 2 | [@GitHub](https://github.com/GustavoAndo) | [@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/) |
 | Júlia Maria Santos Barroso | Desenvolvedor 3 | [@GitHub](https://github.com/jumajubs) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) | 
 | Júlia Rafaela Teixeira Andrade Silva | Desenvolvedor 4 | [@GitHub](https://github.com/jufaela) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a) | 
-| Kauã Gustavo Rodriguês Reno | Desenvolvedor 5 | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
+| Kauã Gustavo Rodrigues Reno | Desenvolvedor 5 | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
 | Luís Henrique Ferreira Souza | Desenvolvedor 6 | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
 | Maria Eduarda Macedo Braga | Desenvolvedor 7 | [@GitHub](https://github.com/madu-braga) | [@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
 
