@@ -3,23 +3,23 @@
 <hr>
 
 <p align="center">
-  <a href ="#💼 Descrição"> Descrição do Projeto </a>  • 
-  <a href ="#📌 Requisitos"> Requisitos </a>  • 
-  <a href ="#📆 Plano de Ação"> Plano de Ação </a>  • 
-  <a href ="#🔧 Tecnologias Utilizadas"> Tecnologias Utilizadas </a>  • 
-  <a href ="#🎓 Dev Team"> Dev Team </a> 
+  <a href ="#briefcase-descrição">  Descrição do Projeto </a>  • 
+  <a href ="#pushpin-requisitos"> Requisitos </a>  • 
+  <a href ="#calendar-plano-de-ação"> Plano de Ação </a>  • 
+  <a href ="#wrench-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
+  <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
  
-### 💼 Descrição
+### :briefcase: Descrição
 
-### 📌 Requisitos
+### :pushpin: Requisitos
 
-### 📆 Plano de Ação
+### :calendar: Plano de Ação
 
-### 🔧 Tecnologias Utilizadas
+### :wrench: Tecnologias Utilizadas
 
-### 🎓 Dev Team
+### :mortar_board: Dev Team
 
 |  Nome   |  Função |    GitHub    |    Linkedin   |
 | :---         |     :---:      |     :---:     |          :---: |
@@ -32,4 +32,3 @@
 | Kauã Gustavo Rodrigues Reno | Desenvolvedor 5 | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
 | Luís Henrique Ferreira Souza | Desenvolvedor 6 | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
 | Maria Eduarda Macedo Braga | Desenvolvedor 7 | [@GitHub](https://github.com/madu-braga) | [@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
-
