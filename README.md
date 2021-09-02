@@ -2,15 +2,15 @@
 
 <hr>
 <p align="center">
-  <a href ="#briefcase-o-projeto"> Descrição do Projeto </a>  • 
-  <a href ="#pushpin-objetivos"> Requisitos </a>  • 
-  <a href ="#calendar-cronograma"> Plano de Ação </a>  • 
-  <a href ="#world_map-mapa-do-site"> Tecnologias Utilizadas </a>  • 
-  <a href ="#bulb-metodologia-utilizada"> Deve Team </a> 
+  <a href ="#💼 Descrição"> Descrição do Projeto </a>  • 
+  <a href ="#📌 Requisitos"> Requisitos </a>  • 
+  <a href ="#📆 Plano de Ação"> Plano de Ação </a>  • 
+  <a href ="#🔧 Tecnologias Utilizadas"> Tecnologias Utilizadas </a>  • 
+  <a href ="#🎓 Dev Team"> Deve Team </a> 
 </p>
 <hr>
  
-### 💼 Descrição do Projeto
+### 💼 Descrição
 
 ### 📌 Requisitos
 
