@@ -18,4 +18,4 @@
 
 ### 🔧 Tecnologias Utilizadas
 
-### 🎓 Deve Team
+### 🎓 Dev Team
