@@ -6,7 +6,7 @@
   <a href ="dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#calendar-plano-de-ação"> Plano de Ação </a>  • 
-  <a href ="#wrench-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
+  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
@@ -59,3 +59,8 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 | Kauã Gustavo Rodrigues Reno | Desenvolvedor 5 | [@GitHub](https://github.com/Kaua-Reno) | [@LinkedIn](https://www.linkedin.com/in/kau%C3%A3-gustavo-r-reno-6a3142205/) |
 | Luís Henrique Ferreira Souza | Desenvolvedor 6 | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
 | Maria Eduarda Macedo Braga | Desenvolvedor 7 | [@GitHub](https://github.com/madu-braga) | [@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
+
+
+<h1 align="center"></h1>
+
+##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2021 - Fatec São José dos Campos </center>
