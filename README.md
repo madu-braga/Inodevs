@@ -25,7 +25,7 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 2.    Quadro Presença; 
 3.    Usuários devem ter perfis diferentes;
 4.    Lançamento do quadro de presenças;
-5.    Relatórios.
+5.    Relatórios.<br>
 
 •    Requisitos Não Funcionais
 Recursos que não são funcionalidades, mas sim características do sistema, como: 
@@ -35,7 +35,7 @@ Recursos que não são funcionalidades, mas sim características do sistema, com
 4.    O sistema deve ser seguro;
 5.    O sistema deve ser simples e fácil de usar.
 
-<br>
+
 
 ## :calendar: Plano de Ação
 <br>
@@ -45,7 +45,7 @@ Recursos que não são funcionalidades, mas sim características do sistema, com
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:**
 * **Back-end:** 
-* **Front-end:** HTML, CSS e JavaScript;
+* **Front-end:** HTML5, CSS e JavaScript;
 * **Ferramentas:** Github, Visual Studio Code e Figma.
 <br>
 
