@@ -44,7 +44,7 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 * **Banco de Dados:**
 * **Back-end:** 
 * **Front-end:** HTML5, CSS e JavaScript;
-* **Ferramentas:** Github, Visual Studio Code e Figma.
+* **Ferramentas:** GitHub, VS Code e Figma.
 <br>
 
 ## :mortar_board: Dev Team
