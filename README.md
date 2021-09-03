@@ -11,13 +11,13 @@
 </p>
 <hr>
  
-### :briefcase: Prosposta
+## :briefcase: Prosposta
 
 O objetivo do nosso grupo é criar um website para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
 > [Documentação]()
 <br>
 
-### :pushpin: Requisitos
+## :pushpin: Requisitos
 
 •    Requisitos Funcionais
  Tratam das funcionalidades que o sistema deve ter: 
@@ -37,10 +37,10 @@ Recursos que não são funcionalidades, mas sim características do sistema, com
 
 <br>
 
-### :calendar: Plano de Ação
+## :calendar: Plano de Ação
 <br>
 
-### :rocket: Tecnologias Utilizadas
+## :rocket: Tecnologias Utilizadas
 
 * **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
 * **Banco de Dados:**
@@ -49,7 +49,7 @@ Recursos que não são funcionalidades, mas sim características do sistema, com
 * **Ferramentas:** Github, Visual Studio Code e Figma.
 <br>
 
-### :mortar_board: Dev Team
+## :mortar_board: Dev Team
 
 |  Nome   |  Função |    GitHub    |    Linkedin   |
 | :---         |     :---:      |     :---:     |          :---: |
