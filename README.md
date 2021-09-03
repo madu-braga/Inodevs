@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <a href ="#briefcase-descrição">  Descrição do Projeto </a>  • 
+  <a href ="#briefcase-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#calendar-plano-de-ação"> Plano de Ação </a>  • 
   <a href ="#wrench-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
@@ -11,13 +11,43 @@
 </p>
 <hr>
  
-### :briefcase: Descrição
+### :briefcase: Prosposta
+
+O objetivo do nosso grupo é criar um website para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
+> [Documentação]()
+<br>
 
 ### :pushpin: Requisitos
 
-### :calendar: Plano de Ação
+•    Requisitos Funcionais
+ Tratam das funcionalidades que o sistema deve ter: 
+1.    Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
+2.    Quadro Presença; 
+3.    Usuários devem ter perfis diferentes;
+4.    Lançamento do quadro de presenças;
+5.    Relatórios.
 
-### :wrench: Tecnologias Utilizadas
+•    Requisitos Não Funcionais
+Recursos que não são funcionalidades, mas sim características do sistema, como: 
+1.    BD Relacional (Requisito Fatec);
+2.    Linguagem Java ou Python (Requisito Fatec);
+3.    O sistema deve ter um plano de contingência caso ocorra falhas;
+4.    O sistema deve ser seguro;
+5.    O sistema deve ser simples e fácil de usar.
+
+<br>
+
+### :calendar: Plano de Ação
+<br>
+
+### :rocket: Tecnologias Utilizadas
+
+* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
+* **Banco de Dados:**
+* **Back-end:** 
+* **Front-end:** HTML, CSS e JavaScript;
+* **Ferramentas:** Github, Visual Studio Code e Figma.
+<br>
 
 ### :mortar_board: Dev Team
 
