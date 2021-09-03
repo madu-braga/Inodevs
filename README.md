@@ -10,7 +10,7 @@
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
-<br>
+
 ## :dart: Prosposta
 
 O objetivo do nosso grupo é criar um website para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
