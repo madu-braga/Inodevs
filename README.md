@@ -10,6 +10,7 @@
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
+<br>
 
 ## :dart: Prosposta
 
