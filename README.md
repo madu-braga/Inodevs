@@ -19,23 +19,20 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 
 ## :pushpin: Requisitos
 
-•    Requisitos Funcionais
- Tratam das funcionalidades que o sistema deve ter: 
-1.    Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
-2.    Quadro Presença; 
-3.    Usuários devem ter perfis diferentes;
-4.    Lançamento do quadro de presenças;
-5.    Relatórios.<br>
+### Requisitos Funcionais
+1. &nbsp; Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
+2. &nbsp; Quadro Presença; 
+3. &nbsp; Usuários devem ter perfis diferentes;
+4. &nbsp; Lançamento do quadro de presenças;
+5. &nbsp; Relatórios.<br>
 
-•    Requisitos Não Funcionais
-Recursos que não são funcionalidades, mas sim características do sistema, como: 
-1.    BD Relacional (Requisito Fatec);
-2.    Linguagem Java ou Python (Requisito Fatec);
-3.    O sistema deve ter um plano de contingência caso ocorra falhas;
-4.    O sistema deve ser seguro;
-5.    O sistema deve ser simples e fácil de usar.
-
-
+### Requisitos Não Funcionais
+1. &nbsp; BD Relacional (Requisito Fatec);
+2. &nbsp; Linguagem Java ou Python (Requisito Fatec);
+3. &nbsp; O sistema deve ter um plano de contingência caso ocorra falhas;
+4. &nbsp; O sistema deve ser seguro;
+5. &nbsp; O sistema deve ser simples e fácil de usar.
+<br>
 
 ## :calendar: Plano de Ação
 <br>
