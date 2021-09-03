@@ -3,7 +3,7 @@
 <hr>
 
 <p align="center">
-  <a href ="#briefcase-prosposta">  Proposta </a>  • 
+  <a href ="dart-prosposta">  Proposta </a>  • 
   <a href ="#pushpin-requisitos"> Requisitos </a>  • 
   <a href ="#calendar-plano-de-ação"> Plano de Ação </a>  • 
   <a href ="#wrench-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
@@ -11,7 +11,7 @@
 </p>
 <hr>
  
-## :briefcase: Prosposta
+## :dart: Prosposta
 
 O objetivo do nosso grupo é criar um website para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
 > [Documentação]()
