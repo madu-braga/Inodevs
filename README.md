@@ -61,6 +61,7 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 | Luís Henrique Ferreira Souza | Desenvolvedor 6 | [@GitHub]( https://github.com/Luisttine) | [@LinkedIn](https://www.linkedin.com/in/lu%C3%ADs-souza/) |
 | Maria Eduarda Macedo Braga | Desenvolvedor 7 | [@GitHub](https://github.com/madu-braga) | [@LinkedIn](https://www.linkedin.com/in/maria-eduarda-macedo-braga-4663bb208/) |
 
+
 <h1 align="center"></h1>
 
 ##### <p align="center"><img src="https://cdn.discordapp.com/attachments/826526043917647912/883363052425195560/faTec.png" width="20" height="20" /> Projeto Integrador 2021 - Fatec São José dos Campos </center>
