@@ -1,0 +1,114 @@
+*{
+    margin:0;
+    font-size: 20px;
+}
+
+.fundo{
+    margin: 0;
+    padding: 0;
+    background-color: #002339;
+    height: 100vh;
+
+}
+
+.container{
+    position: flex;
+    background-color: #fff;
+    height: 99%;
+    margin-left: 5vh;
+}
+.container,h2 {
+    font-size: 1.7em;
+    padding-top: 1vh;
+    padding-left: 2vw;
+  }
+
+.quadro{
+    position: flex;
+    height: 60vh;
+    width: 90vw;
+    float: right;
+    margin-right: 2.5vw;
+    background-color: aqua;
+    color: #818181;
+}
+
+.table {
+    padding: 0;
+    margin: 0;
+  }
+  .table__line {
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, 25%);
+  }
+  .table__cell {
+    border: solid 0.5px;
+    padding: 0 10px;
+  }
+  .table__name {
+    display: flex;
+    align-items: center;
+  }
+  .table__value {
+    justify-content: center;
+    height: auto;
+    align-items: center;
+    display: flex;
+    min-height: 4vw;
+  }
+  .table__title p {
+    font-size: 21px;
+    text-align: center;
+  }
+  .table__line:nth-child(2n+1) .table__cell {
+    background: #f7f7f7;
+  }
+  .table__line:nth-child(2n+1) .table__title {
+    background: none;
+  }
+  .table__cell:nth-child(2n+0) {
+    background: transparent;
+  }
+
+  input {
+    border-bottom: 2px solid #323232;
+    font-size: 16px;  
+    margin-bottom: 0.25em;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    margin-left: 12%;
+    margin-top: 4%;
+  }
+
+
+.busca{
+    width: 60vh;
+    float: right;
+    text-align: center;
+    align-items: center;    
+    margin-right: 1vw;
+}
+
+input[type=search] {
+    width: 50vh;
+    height: 3vw;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 1em;
+    background-color: white;
+    background-image: url('lupa.png');
+    background-position: 100%; 
+    background-size: 50px;
+    background-repeat: no-repeat;
+    padding: 20px 0px 20px 40px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    border-radius: 50px 50px 50px 50px ;
+    outline: thin dotted;
+    outline: 0px auto;
+    outline-offset: 0px;
+  }
+ 
