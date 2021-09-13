@@ -1,0 +1,134 @@
+* {
+  text-align: center;
+  margin:0;
+  font-family: Space, Helvetica, sans-serif, Mono, Arial;
+  height: 95.9vh;
+  font-size: 10px;
+}
+
+.container {
+  display: inline-block;
+  margin: 0 auto;
+  width: 100vw;
+}
+
+.blocos {
+  float: left;
+}
+
+.left {
+  background: #002339;
+  color: #AEB3C3;
+  padding: 15px;
+  width: 60vw;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  font-size: 5em;
+  text-align: justify;
+}
+
+.right {
+  position: fixed;
+  margin-top: 35vh;
+  width: 40vw;
+  height: 30vh;
+  background: #fff;
+  justify-content: center;
+  color: black;
+}
+
+.referencia {
+  position: relative;
+  bottom: 0;
+  max-height: 2vh;
+}
+
+#referencia,h2 {
+  height: fit-content;
+  width: fit-content;
+  margin-left: 1.5em;
+  margin-bottom: 0.5em;
+  color: #fff;
+  font-size: 1.5em;
+}
+
+#form, input {
+  height: 3%;
+  outline: none;
+  margin: 10px;
+  background-color: #C4C4C4;
+  border-radius: 50px;
+  border: none;
+  text-align: left;
+  height: 4vh;
+  width: 16vw;
+  padding-left: 1em;
+  font-size: 1.5em;
+}
+#form, label {
+  font-size: 2em;
+  padding-right: 12vw;
+}
+
+#botao {
+  background-color: #E5C03B;
+  font-size: 2em;
+  height: 6vh;
+  text-align: center;
+  padding: 0;
+  width: 14vw;
+}
+#botao:hover {
+  cursor: pointer;
+  background-color: darkgoldenrod;
+}
+
+@media screen and (max-width: 480px) {
+  * {
+    height: 10vh;
+  }
+ 
+  .blocos {
+    float: top;
+  }
+  
+.left {
+  padding: 0px;
+  padding-top: 13vw;
+  padding-bottom: 20vw;
+  width: 100vw;
+  display: flex;
+  font-size: 3em;
+  text-align: center;
+  align-items: center;
+}
+
+.right {
+  position: relative;
+  width: 100vw;
+  background-color: transparent;
+}
+
+.referencia {
+  position: relative;
+  margin-top: 140% ;
+  display: block;
+  bottom: 0;
+}
+#referencia,h2 {
+  color: #000;
+}
+
+#form, input {
+  height: 6vh;
+  width: 40vw;
+}
+#form, label {
+  padding-right: 28vw;
+}
+
+#botao {
+  width: 25vw;
+}
+}
