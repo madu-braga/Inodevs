@@ -7,21 +7,23 @@
   margin: 0;
   padding: 0;
   background-color: #002339;
-  height: 100vh;
+  height: 99.8vh;
+  max-width: 98%;
 }
 
 .container{
-  position: flex;
-  background-color: #fff;
-  height: 69.2vw;
-  margin-left: 5.7vh;
-  width: 80%;
+    position: flex;
+    background-color: #fff;
+    height: 69.2vw;
+    margin-left: 5.8vh;
+    width: 95%;
+    padding-left: 2v;
 }
 .container,h2 {
-  font-size: 1.7em;
-  padding-top: 1.9vh;
-  padding-left: 2vw;
-  padding-bottom: 1vh;
+    font-size: 1.7em;
+    padding-top: 1.9vh;
+    padding-left: 2vw;
+    padding-bottom: 1vh;
   }
 
 .quadro{
@@ -138,51 +140,34 @@
 }
 
 input[type=search] {
-  margin-top: 0;
-  width: 23vw;
-  height: 1vh;
-  box-sizing: border-box;
-  border: 2px solid #ccc;
-  border-radius: 4px;
-  font-size: 0.9em;
-  background-color: white;
-  background-image: url('../img/busca.png');
-  background-position: 98%; 
-  background-size: 25px;
-  background-repeat: no-repeat;
-  padding: 15px 0px 15px 25px;
-  -webkit-transition: width 0.4s ease-in-out;
-  transition: width 0.4s ease-in-out;
-  border-radius: 50px 50px 50px 50px ;
-  outline: thin dotted;
-  outline: 0px auto;
-  outline-offset: 0px;
+    margin-top: 0;
+    width: 23vw;
+    height: 1vh;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 0.9em;
+    background-color: white;
+    background-image: url('../img/busca.png');
+    background-position: 98%; 
+    background-size: 25px;
+    background-repeat: no-repeat;
+    padding: 15px 0px 15px 25px;
+    -webkit-transition: width 0.4s ease-in-out;
+    transition: width 0.4s ease-in-out;
+    border-radius: 50px 50px 50px 50px ;
+    outline: thin dotted;
+    outline: 0px auto;
+    outline-offset: 0px;
   }
  
 #select{
-  font-size: 1.2em;
-  width: 100%;
-  box-sizing: border-box;
-  border: none;
-  text-align: center;
-  outline: thin dotted;
-  outline: 0px auto;
-  outline-offset: 0px;
-}
-
-td {
-  border: 1px solid black;
-}
-
-/* try removing the "hack" below to see how the table overflows the .body */
-#hack1 {
-  display: table;
-  table-layout: fixed;
-  width: 100%;
-}
-
-#hack2 {
-  display: table-cell;
-  overflow-x: auto;
-  width: 100%;
+    font-size: 1.2em;
+    width: 100%;
+    box-sizing: border-box;
+    border: none;
+    text-align: center;
+    outline: thin dotted;
+    outline: 0px auto;
+    outline-offset: 0px;
 }
