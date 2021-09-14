@@ -1,41 +1,45 @@
 *{
-    margin:0;
-    font-size: 20px;
+  margin:0;
+  font-size: 20px;
 }
 
 .fundo{
-    margin: 0;
-    padding: 0;
-    background-color: #002339;
-    height: 100vh;
-
+  margin: 0;
+  padding: 0;
+  background-color: #002339;
+  height: 100vh;
 }
 
 .container{
-    position: flex;
-    background-color: #fff;
-    height: 99%;
-    margin-left: 5vh;
+  position: flex;
+  background-color: #fff;
+  height: 69.2vw;
+  margin-left: 5.7vh;
+  width: 80%;
 }
 .container,h2 {
-    font-size: 1.7em;
-    padding-top: 1vh;
-    padding-left: 2vw;
+  font-size: 1.7em;
+  padding-top: 1.9vh;
+  padding-left: 2vw;
+  padding-bottom: 1vh;
   }
 
 .quadro{
-    position: flex;
-    height: 60vh;
-    width: 90vw;
-    float: right;
-    margin-right: 2.5vw;
-    background-color: aqua;
-    color: #818181;
+  position: flex;
+  height: 60vh;
+  width: 90vw;
+  float: right;
+  margin-right: 3.5vw;
+  background-color: #fff;
+  color: #000;
 }
 
 .table {
     padding: 0;
     margin: 0;
+    border: solid 1px;
+    border-collapse: collapse;
+    width: 100%;
   }
   .table__line {
     margin: 0;
@@ -58,11 +62,39 @@
     min-height: 4vw;
   }
   .table__title p {
-    font-size: 21px;
+    font-size: 1.3em;
     text-align: center;
+    margin-top: 0.5vh;
+  }
+  .one {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #fff;
+    padding-top: 2vh;
+    padding-bottom: 3vh;
+  }
+  .two {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #fff;
+    width: 63.8vw;
+    margin:0;
+    padding-left:2.4vh;
+    padding-right:2.4vh;
+    height: 10;
+  }
+  .three {
+    font-size: 1.2em;
+    text-align: center;
+    background-color: #fff;
+    width: 64.8vw;
+    margin:0;
+    padding-left:2.4vh;
+    padding-right:2.4vh;
+    margin-right: 10vw;
   }
   .table__line:nth-child(2n+1) .table__cell {
-    background: #f7f7f7;
+    background: #d3d3d3;
   }
   .table__line:nth-child(2n+1) .table__title {
     background: none;
@@ -82,33 +114,75 @@
     margin-top: 4%;
   }
 
+  .menu {
+    margin-right: 4vw;
+    display: flex;
+    flex-flow: row wrap;
+    width: 98%;
+    height: 4vh;
+    margin: 3vh 0 1vh 0;
+  }
 
-.busca{
-    width: 60vh;
-    float: right;
-    text-align: center;
-    align-items: center;    
-    margin-right: 1vw;
+#op{
+    height: 100%;
+    width: 2%;
+  }
+
+#busca{
+    margin-right:0;
+    height: 100%;
+    width: 10%;
+    display: inline-block;
+    margin-left: 63.9vw;
+    padding-left: 10px;
 }
 
 input[type=search] {
-    width: 50vh;
-    height: 3vw;
-    box-sizing: border-box;
-    border: 2px solid #ccc;
-    border-radius: 4px;
-    font-size: 1em;
-    background-color: white;
-    background-image: url('img/lupa.png');
-    background-position: 100%; 
-    background-size: 50px;
-    background-repeat: no-repeat;
-    padding: 20px 0px 20px 40px;
-    -webkit-transition: width 0.4s ease-in-out;
-    transition: width 0.4s ease-in-out;
-    border-radius: 50px 50px 50px 50px ;
-    outline: thin dotted;
-    outline: 0px auto;
-    outline-offset: 0px;
+  margin-top: 0;
+  width: 23vw;
+  height: 1vh;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+  font-size: 0.9em;
+  background-color: white;
+  background-image: url('../img/busca.png');
+  background-position: 98%; 
+  background-size: 25px;
+  background-repeat: no-repeat;
+  padding: 15px 0px 15px 25px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  border-radius: 50px 50px 50px 50px ;
+  outline: thin dotted;
+  outline: 0px auto;
+  outline-offset: 0px;
   }
  
+#select{
+  font-size: 1.2em;
+  width: 100%;
+  box-sizing: border-box;
+  border: none;
+  text-align: center;
+  outline: thin dotted;
+  outline: 0px auto;
+  outline-offset: 0px;
+}
+
+td {
+  border: 1px solid black;
+}
+
+/* try removing the "hack" below to see how the table overflows the .body */
+#hack1 {
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+}
+
+#hack2 {
+  display: table-cell;
+  overflow-x: auto;
+  width: 100%;
+}
