@@ -4,38 +4,58 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/quadro.css">
+    <link rel="stylesheet" href="../css/quadro.css">
      <title>Quadro de Presença</title>
 </head>
 <body>
-    <div class="fundo">
-        <div class="container">
-            <h2>Quadro de Presença</h2>
-            <div class="busca">
-                <form action=" ">
-                    <input type="search"  placeholder="Busque um nome" id="pesquisa" onkeyup="pesquisar()"/>
-                </form>
+  
+    <div class="fundo table" >
+        <div class="container" id="hack1">
+          <h2>Quadro de Presença</h2>
+          <div class="menu">
+            <div id="op">
+              <form action=" ">
+                <input type="search"  placeholder="Selecione a alocação" id="pesquisa" onkeyup="pesquisar()"/>
+              </form>
             </div>
-            <div class="quadro">
+            <div id="busca">
+              <form action=" ">
+                <input type="search"  placeholder="Busque um nome" id="pesquisa" onkeyup="pesquisar()"/>
+              </form>
+            </div>
+          </div>
+          <div>
+          <div class="quadro" id="hack2">
                 <div class="wrapper">
                         <ul class="table">
                             <li class="table__line">
-                                <div class="table__cell table__title table_name">
+                                <div class="table__cell table__title table_name one">
                           <p>Alocações</p>
                         </div>
-                                <div class="table__cell table__title">
-                          <p>Diária</p>
-                        </div>
-                                <div class="table__cell table__title">
-                          <p>Quarto</p>
-                        </div>
-                        <div class="table__cell table__title">
-                          <p>Camas</p>
+                        <div class="table__cell table__title two">
+                          <p> <form method="post" action="cadastrar-enquete.php">
+                            <select name="meses" id="select">
+                              <option>Janeiro</option>
+                              <option>Fevereiro</option>
+                              <option>Março</option>
+                              <option>Abril</option>
+                              <option>Maio</option>
+                              <option>Junho</option>
+                              <option>Julho</option>
+                              <option>Agosto</option>
+                              <option>Setembro</option>
+                              <option>Outubro</option>
+                              <option>Novembro</option>
+                              <option>Dezembro</option>
+                            </select>
+                          </form></p>
+                          <div class="table__cell table__title three">
+                              
                         </div>
                       </li>
                             <li class="table__line">
                                 <div class="table__cell table__name">
-                          <p>Royal Mile Backpackers</p>
+                          <p>Ana Souza</p>
                         </div>
                                 <div class="table__cell table__value">
                           <p>R$ 55</p>
@@ -49,7 +69,7 @@
                       </li>
                             <li class="table__line">
                                 <div class="table__cell table__name">
-                          <p>Castle Rock Hostel</p>
+                          <p>Bruno Santos</p>
                         </div>
                                 <div class="table__cell table__value">
                           <p>R$ 47</p>
@@ -63,7 +83,7 @@
                       </li>
                             <li class="table__line">
                                 <div class="table__cell table__name">
-                          <p>St. Christopher's Inn Edinburgh</p>
+                          <p>Carla Assis</p>
                         </div>
                                 <div class="table__cell table__value">
                           <p>R$ 105</p>
@@ -77,7 +97,7 @@
                       </li>
                       <li class="table__line">
                                 <div class="table__cell table__name">
-                          <p>High Street Hostel</p>
+                          <p>João Silva</p>
                         </div>
                                 <div class="table__cell table__value">
                           <p>R$ 47</p>
@@ -89,6 +109,90 @@
                           <p>10 camas</p>
                         </div>
                       </li>
+                      <li class="table__line">
+                        <div class="table__cell table__name">
+                          <p>João Silva</p>
+                        </div>
+                        <div class="table__cell table__value">
+                          <p>R$ 47</p>
+                        </div>
+                      <div class="table__cell table__value">
+                        <p>misto</p>
+                      </div>
+                      <div class="table__cell table__value">
+                        <p>10 camas</p>
+                      </div>
+                    </li>
+                    <li class="table__line">
+                      <div class="table__cell table__name">
+                        <p>João Silva</p>
+                      </div>
+                      <div class="table__cell table__value">
+                        <p>R$ 47</p>
+                      </div>
+                    <div class="table__cell table__value">
+                      <p>misto</p>
+                    </div>
+                    <div class="table__cell table__value">
+                      <p>10 camas</p>
+                    </div>
+                  </li>
+                  <li class="table__line">
+                    <div class="table__cell table__name">
+                      <p>João Silva</p>
+                    </div>
+                    <div class="table__cell table__value">
+                      <p>R$ 47</p>
+                    </div>
+                  <div class="table__cell table__value">
+                    <p>misto</p>
+                  </div>
+                  <div class="table__cell table__value">
+                    <p>10 camas</p>
+                  </div>
+                </li>
+                <li class="table__line">
+                  <div class="table__cell table__name">
+                    <p>João Silva</p>
+                  </div>
+                  <div class="table__cell table__value">
+                    <p>R$ 47</p>
+                  </div>
+                <div class="table__cell table__value">
+                  <p>misto</p>
+                </div>
+                <div class="table__cell table__value">
+                  <p>10 camas</p>
+                </div>
+              </li>
+              <li class="table__line">
+                <div class="table__cell table__name">
+                  <p>João Silva</p>
+                </div>
+                <div class="table__cell table__value">
+                  <p>R$ 47</p>
+                </div>
+              <div class="table__cell table__value">
+                <p>misto</p>
+              </div>
+              <div class="table__cell table__value">
+                <p>10 camas</p>
+              </div>
+            </li>
+            <li class="table__line">
+              <div class="table__cell table__name">
+                <p>João Silva</p>
+              </div>
+              <div class="table__cell table__value">
+                <p>R$ 47</p>
+              </div>
+            <div class="table__cell table__value">
+              <p>misto</p>
+            </div>
+            <div class="table__cell table__value">
+              <p>10 camas</p>
+            </div>
+          </li>
                     </ul>
                   </div>
             <div>
