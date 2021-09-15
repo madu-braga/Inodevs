@@ -1,0 +1,124 @@
+*{
+    margin:0;
+    font-size: 20px;
+  }
+  
+  .fundo{
+    margin: 0;
+    padding: 0;
+    background-color: #002339;
+    height: 100vh;
+    max-width: 100%;
+  }
+  
+  .container{
+      position: relative;
+      background-color: #fff;
+      height: 69.2vw;
+      margin-left: 5.8vh;
+      width: 95.8vw;
+  }
+  .container,h2 {
+      font-size: 1.7em;
+      padding-top: 1.9vh;
+      padding-bottom: 1vh;
+    }
+
+    h2{
+        padding-left: 2vw;
+        margin-bottom: 3vh;
+    }
+  
+  
+.menu {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    height: 5vh;
+    left: auto;
+    background-color: #E5C03B;
+    text-align: center;
+    padding-top: 0.75vh;
+    padding-bottom: 1.25vh;
+}
+  
+#cadastros{
+    font-size: 2em;
+    height: 100%;
+    width: 37.5%;
+    float: left;
+    position: relative;
+    color: #ff0000;
+}
+  
+#presencas{
+    position: relative;
+    margin-right:0;
+    height: 100%;
+    width: 20%;
+    display: inline-block;
+  }
+
+ a{
+    font-size: 2em;
+    color: #000;
+    text-decoration: none;
+  }
+
+  
+ a:hover{
+    color: #ff0000;
+  }
+
+  #edicoes{
+    position: relative;
+    margin-right:0;
+    height: 100%;
+    width: 39%;
+    display: inline-block;
+}
+  
+.menu2{
+    height: 77.6vh;
+}
+
+#left{
+    width: 50%;
+    height: 100%;
+    float: left;
+    align-items: center;
+    text-align: center;
+}
+
+#right{
+    width: 50%;
+    float: right;
+    height: 100%;
+    align-items: center;
+    text-align: center;
+}
+
+#botao {
+    margin-top: 12vh;
+    height: 6vh;
+    text-align: center;
+    padding: 0;
+    width: 23vw;
+    border-radius: 50px;
+    font-size: 0.7em;
+    outline: 0px auto;
+    outline-offset: 0px;
+    border: none;
+  }
+  #botao:hover {
+    cursor: pointer;
+  }
+
+  .yellow{
+    margin-top: 1vh;
+    background-color: #E5C03B;
+    color: #000;
+}
+.yellow:hover{
+    background-color: darkgoldenrod;
+}
