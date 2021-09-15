@@ -79,7 +79,7 @@ textarea{
 }
 
 .relogio{
-    margin-top: 5%;
+    margin-top: 1.5%;
     font-size: 4.5em;
     text-align: center;
 }
@@ -87,7 +87,7 @@ textarea{
 .caixa{
     margin-top: 10vh;
     width: 16vw;
-    height: 6vw;
+    height: 5vw;
     justify-content: center;
     align-items: center;
     position: relative;
@@ -143,7 +143,6 @@ textarea{
     margin-top: 1vh;
     background-color: #E5C03B;
     color: #000;
-    height: 6vh;
 }
 .yellow:hover{
     background-color: darkgoldenrod;
