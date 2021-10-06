@@ -1,0 +1,193 @@
+* {
+    box-sizing: border-box;
+    color: #fff;
+}
+
+body {
+    position: relative;
+    overflow: hidden;
+}
+
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 70px;
+    background: #002339;
+    padding: 6px 14px;
+    transition: all 0.5s ease;
+}
+.sidebar.active {
+    width: 200px;
+}
+
+.sidebar.active #btn {
+    left: 90%;
+}
+
+.sidebar #btn{
+    position: absolute;
+    color: #fff;
+    left: 90%;
+    top: 6px;
+    font-size: 20px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    line-height: 50px;
+    transform: translateX(-50%);
+}
+
+.sidebar ul {
+    margin-top: 20px;
+}
+.sidebar ul li {
+    position: relative;
+    height: 50px;
+    width: 100%;
+    margin: 0 5px;
+    list-style: none;
+    line-height: 50px;
+}
+.sidebar ul li .tooltip {
+    position: absolute;
+    left: 122px;
+    top: 0px;
+    transform: translateX(-50%);
+    border-radius: 6px;
+    height: 35px;
+    width: 122px;
+    background: #fff;
+    color: #000;
+    line-height: 35px;
+    text-align: center;
+    transition: 0s;
+    opacity: 0;
+    pointer-events: none;
+    display: block;
+
+}
+.sidebar.active ul li .tooltip {
+    display: block;
+}
+.sidebar ul li:hover .tooltip {
+    transition: all 0.5s ease;
+    opacity: 1;
+    top: 50%;
+}
+.sidebar ul li a {
+    color: #fff;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    transition: all 0.4s ease;
+    border-radius: 12px;
+}
+.sidebar ul li a:hover {
+    background: #000;
+}
+
+.sidebar ul li a i {
+    height: 50px;
+    min-width: 50px;
+    border-radius: 12px;
+    line-height: 50px;
+    text-align: center;
+}
+.sidebar .links_name {
+    opacity: 0;
+    pointer-events: auto;
+}
+.sidebar.active .links_name {
+    opacity: 1;
+    pointer-events: none;
+}
+
+#btn {
+    padding-right: 4.9vw;
+}
+
+@media screen and (max-width: 480px) {
+    .sidebar {
+        width: 10vw;
+    }
+    
+    .sidebar.active #btn {
+        left: 45vw;
+    }
+    
+    .sidebar #btn{
+        cursor: pointer;
+        left: 80%;
+    }
+    
+    .sidebar ul {
+        margin-top: -25px;
+    }
+    .sidebar ul li {
+        height: 50px;
+        margin-left: -80%;
+    }
+    .sidebar.active ul li {
+        height: 50px;
+        margin-left: 0;
+    }
+    .sidebar ul li .tooltip {
+        position: absolute;
+        left: 122px;
+        top: 0px;
+        transform: translateX(-50%);
+        border-radius: 6px;
+        height: 35px;
+        width: 122px;
+        background: #fff;
+        color: #000;
+        line-height: 35px;
+        text-align: center;
+        transition: 0s;
+        opacity: 0;
+        pointer-events: none;
+        display: block;
+    }
+    .sidebar.active ul li .tooltip {
+        display: block;
+    }
+    .sidebar ul li:hover .tooltip {
+        transition: all 0.5s ease;
+        opacity: 1;
+        top: 0;
+    }
+    .sidebar ul li a {
+        margin:0;
+        height: 45px;
+        width: 45px;
+        color: #fff;
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+        transition: all 0.4s ease;
+        border-radius: 12px;
+    }
+    .sidebar ul li a:hover {
+        background: #000;
+    }
+    
+    .sidebar ul li a i {
+        height: 8vh;
+    }
+    .sidebar .links_name {
+        margin-top:5vh;
+        opacity: 0;
+        pointer-events: auto;
+    }
+    .sidebar.active .links_name {
+        opacity: 1;
+        pointer-events: none;
+    }
+    
+    #btn {
+        padding-right: 50%;
+    }
+  }
+  

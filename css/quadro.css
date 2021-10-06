@@ -1,0 +1,255 @@
+
+.principal {
+    width: 90%;
+    background: white;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+
+.principalforms {
+    width: 80%;
+    background: white;
+    margin: auto;
+    padding-top: 5px;
+    margin-top: 20px;
+}
+
+h1 {
+    padding: 5px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+table {
+    border: solid 1px black;
+    margin: auto;
+    border-collapse: collapse;
+    border-radius: 10px;
+    margin-top: 1%;
+}
+
+td {
+    border: solid 1px black;
+    padding: 5px;
+    background: lightgray;
+}
+
+#botao {
+    background: gold;
+    padding: 10px;
+    color: black;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-left: 330px;
+    border: 1px black solid
+}
+
+#botao:hover {
+    background: rgb(231, 197, 0);
+}
+
+#titulo{
+    background: lightslategray;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.green {
+    font-weight: bold;
+    color: green;
+}
+
+.red {
+    font-weight: bold;
+    color: red;
+}
+
+.blue {
+    font-weight: bold;
+    color: blue;
+}
+
+input {
+    font-size: 15px;
+    margin-left: 40px;
+    width: 960px;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    margin-top: 15px;
+}
+
+input:focus {
+    border-color: lightseagreen;
+    outline: 0;
+}
+
+
+input[type="submit"] {
+    background: gold;
+    padding: 10px;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    margin-left: 450px;
+    border: 1px black solid;
+    width: 150px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background: rgb(231, 197, 0);
+}
+
+label{
+    padding-left : 40px;
+}
+
+.voltar{
+    background-color: #E5C03B;;
+    padding: 8px 5px;
+    font-size: 20px;  
+    margin-bottom: 10px;  
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 60px;
+    flex: 1 1 50%;
+    position: absolute;
+    width: 10%;
+    margin-top: -33%;
+    text-align: center;
+}
+.voltar:hover{
+    background: darkgoldenrod;
+}
+.voltar2:hover{
+    background: darkgoldenrod;
+}
+.voltar3:hover{
+    background: darkgoldenrod;
+}
+input[type="submit"] {
+    background-color: #E5C03B;;
+    padding: 8px 5px;
+    font-size: 20px;  
+    margin-bottom: 10px;  
+    border-radius: 20px;
+    cursor: pointer;
+}
+    
+input[type="submit"]:hover{
+    background: darkgoldenrod;
+}
+    
+.voltar2{
+    background-color: #E5C03B;;
+    padding: 8px 5px;
+    font-size: 20px;  
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 60px;
+    flex: 1 1 50%;
+    position: absolute;
+    width: 10%;
+    margin-top: -38%;
+    text-align: center;
+}
+
+.voltar3{
+    background-color: #E5C03B;;
+    padding: 8px 5px;
+    font-size: 20px;  
+    margin-bottom: 10px;  
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: 87%;
+    flex: 1 1 50%;
+    position: absolute;
+    width: 10%;
+    text-align: center;
+}
+
+.resetar{
+    background-color: #E5C03B;;
+    padding: 8px 5px;
+    font-size: 20px;  
+    margin-bottom: 10px;  
+    border-radius: 20px;
+    cursor: pointer;
+    flex: 1 1 50%;
+    position: absolute;
+    width: 20%;
+    margin-top: -1%;
+    text-align: center;
+    margin-left: 15%;
+}
+
+.resetar:hover{
+    background: goldenrod;
+}
+
+
+input.quadro {
+    width: 15px;
+    margin-left: 0px;
+}
+
+.branco {
+    background: white;
+}
+
+#pesquisar {
+    width: 500px;
+    margin-right: 10%;
+    float: right;
+    margin-top: 0%;
+}
+
+.buscar {
+    height: 40px;
+    margin-left: 300px;
+    margin-top: -30px;
+    float: right;
+    margin-right: 120px;
+}
+
+
+.posto {
+    font-weight: bold;
+    color: blue;
+    cursor: pointer;
+}
+
+.barra img{
+    width: 4vw;
+    height: 10vh;
+}
+
+.left{
+    position: absolute;
+    width: 59px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+    background: #002339;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    text-indent: 1px;
+    text-overflow: '';
+    padding: 5px;
+}
+
+#tabela {
+    margin-top: 7%;
+}

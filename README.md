@@ -1,50 +1,53 @@
-# <p align="center"> JetSoft </center>
+# <p align="center"> InoDevs </center>
+
 
 <hr>
 
 <p align="center">
-  <a href ="dart-prosposta">  Proposta </a>  • 
-  <a href ="#pushpin-requisitos"> Requisitos </a>  • 
-  <a href ="#calendar-plano-de-ação"> Plano de Ação </a>  • 
-  <a href ="#rocket-tecnologias-utilizadas">  Tecnologias Utilizadas </a>  • 
+  <a href ="#information_source-informações"> Informações </a>  • 
+  <a href ="#dart-entregas-da-primeira-sprint"> Entregas </a>  • 
+  <a href ="#gear-execução"> Execução </a>  • 
+  <a href ="#game_die-banco-de-dados">  Banco de Dados</a>  • 
+  <a href ="#chart_with_upwards_trend-burndown">  Burndown </a>  • 
   <a href ="#mortar_board-dev-team"> Dev Team </a> 
 </p>
 <hr>
 <br>
 
-## :dart: Prosposta
+## :information_source: Informações
 
-O objetivo do nosso grupo é criar um website para uma empresa de software, com a proposta de emitir relatórios mensais apresentando um quadro de presença de colaboradores em postos de trabalhos acordados em contrato.
-> [Documentação]()
+> [Wireframe](https://www.figma.com/proto/tipWpDl8AF1pPSGCAsVdGA/Untitled?node-id=94%3A2&scaling=scale-down-width&page-id=91%3A2&starting-point-node-id=94%3A2)<br>
+> [Documentação](https://github.com/Inodevs/Inodevs/blob/sprint-1/documenta%C3%A7%C3%A3o/InodevsSprint1.pdf)<br>
+> [Apresentação](https://github.com/Inodevs/Inodevs/blob/sprint-1/documenta%C3%A7%C3%A3o/sprint-1.pdf)<br>
 <br>
 
-## :pushpin: Requisitos
+## :dart: Entregas da Primeira Sprint
+* Protótipo :heavy_check_mark:
+* Página de Login :heavy_check_mark:
+* Documentação Inicial :heavy_check_mark:
+* Banco de Dados :heavy_check_mark:
+* Cadastro de Usuários :heavy_check_mark:
+* Cadastro de Colaboradores :heavy_check_mark:
+* Cadastros do Quadro de Presença  :heavy_check_mark:
+* Página do Tático :heavy_check_mark:
 
-### Requisitos Funcionais
-1. &nbsp; Cadastros de Usuários, Contratos, Clientes, Colaboradores, Postos de Trabalho, Alocações;
-2. &nbsp; Quadro Presença; 
-3. &nbsp; Usuários devem ter perfis diferentes;
-4. &nbsp; Lançamento do quadro de presenças;
-5. &nbsp; Relatórios.<br>
-
-### Requisitos Não Funcionais
-1. &nbsp; BD Relacional (Requisito Fatec);
-2. &nbsp; Linguagem Java ou Python (Requisito Fatec);
-3. &nbsp; O sistema deve ter um plano de contingência caso ocorra falhas;
-4. &nbsp; O sistema deve ser seguro;
-5. &nbsp; O sistema deve ser simples e fácil de usar.
+* Revisão e Correção :heavy_check_mark:
+* Validação do Produto :heavy_check_mark:
 <br>
 
-## :calendar: Plano de Ação
+## :gear: Execução
+<h1 align="center"><img src = "https://github.com/Inodevs/Inodevs/blob/sprint-1/execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3oP%C3%A1ginas_1.gif" width="85%"></h1>
 <br>
 
-## :rocket: Tecnologias Utilizadas
+## :game_die: Banco de Dados
+<h1 align="center"><img src = "https://github.com/Inodevs/Inodevs/blob/sprint-1/execu%C3%A7%C3%A3o/Execu%C3%A7%C3%A3oBD.gif" width="85%"></h1>
 
-* **Reuniões e Apresentações:** Discord, WhatsApp e Microsoft Teams;
-* **Banco de Dados:**
-* **Back-end:** 
-* **Front-end:** HTML5, CSS e JavaScript;
-* **Ferramentas:** GitHub, VS Code e Figma.
+<br>
+
+## :chart_with_upwards_trend: Burndown
+*O gráfico abaixo mostra o desempenho da equipe na realização das tarefas referentes a Sprint:*
+<h1 align="center"><img src = "https://media.discordapp.net/attachments/826526043917647912/888988224737918986/IMG-20210919-WA0003.jpg" width="80%"></h1>
+
 <br>
 
 ## :mortar_board: Dev Team
@@ -53,7 +56,11 @@ O objetivo do nosso grupo é criar um website para uma empresa de software, com 
 | :---         |     :---:      |     :---:     |          :---: |
 | Jonatas Mathias Dalló | Scrum Master | [@GitHub](https://github.com/Jonatas-Dallo) | [@LinkedIn](https://www.linkedin.com/in/jonatas-dall%C3%B3-147638206/)  |
 | Luíz Fernando Silva Habaeb | Product Owner | [@GitHub](https://github.com/luizhabaeb)  | [@LinkedIn](https://www.linkedin.com/in/luizhabaeb/)  |
-| Dante Demétrius Pereira Silva  | Desenvolvedor 1 |  - | [@LinkedIn](https://www.linkedin.com/in/dante-silva-0a2a09a8/) | 
+| Dante Demétrius Pereira Silva  | Desenvolvedor 1 | [@GitHub](https://github.com/dantesjc) | [@LinkedIn](https://www.linkedin.com/in/dante-silva-0a2a09a8/) | 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 885e800ddd423131181f42f2125e329d15e1459c
 | Gustavo Kenji Ando | Desenvolvedor 2 | [@GitHub](https://github.com/GustavoAndo) | [@LinkedIn](https://www.linkedin.com/in/gustavo-ando-054414209/) |
 | Júlia Maria Santos Barroso | Desenvolvedor 3 | [@GitHub](https://github.com/jumajubs) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-maria-santos-850739188/) | 
 | Júlia Rafaela Teixeira Andrade Silva | Desenvolvedor 4 | [@GitHub](https://github.com/jufaela) | [@LinkedIn](https://www.linkedin.com/in/j%C3%BAlia-andrade-1195a121a) | 
