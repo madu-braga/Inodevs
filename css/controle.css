@@ -27,14 +27,14 @@ padding: 0;
 .container,h2 {
   color:#000;
   font-size: 1.6em;
-  padding-top: 1.7vh;
+  padding-top: 2vh;
   padding-bottom: 1vh;
 }
 h2{
-    padding-left: 2vw;
+    margin-top: 2vh;
+    padding-left: 7.5vh;
     margin-bottom: 3vh;
 }
-
 
 .menu {
   display: inline-block;
@@ -70,8 +70,6 @@ a{
 a:hover{
   color: #ff0000;
 }
-
-
 
 .menu2{
   height: 70.6vh;
@@ -131,6 +129,12 @@ a:hover{
 .barra img{
   width: 5vw;
   height: 6vh;
+}
+
+.op{
+  margin-right: -1vw;
+  height: 1vh;
+  float: right;
 }
 
 @media screen and (max-width: 480px) {
@@ -198,4 +202,5 @@ a:hover{
   .link{
     float: left;
   }
+
 }

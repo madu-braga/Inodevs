@@ -1,9 +1,11 @@
-*{
-    margin:0;
+* {
+    margin: 0;
     padding: 0;
-    font-size: 10px;
+    box-sizing: border-box; 
     font-family: Space, Helvetica, sans-serif, Mono, Arial;
-}
+    border: none;
+    font-size: 20px;
+  }
   
 .fundo{
     margin: 0;
@@ -13,12 +15,13 @@
   }
   
 .container{
-    position: flex;
-    background-color: #fff;
+    align-items: center;
+    position: relative;
     height: 51.2vw;
     margin-left: 5.8vh;
-    width: 95%;
+    width: 98%;
     padding-left: 2vw;
+    text-align: center;
 }
 .container,h2 {
     font-size: 2.7em;
@@ -27,7 +30,7 @@
     padding-bottom: 1vh;
 }
 .container, h1{
-    font-size: 4.4em;
+    font-size: 1.6em;
     color: #000000;
 }
 
@@ -35,55 +38,18 @@
     margin-top: 2vh;
     position: relative;
     height: 52vh;
-    width: 97%;
-    text-align: center;
-    background-color: #fff;
-}
-
-.menu {
-    margin-right: 4vw;
-    display: grid;
     width: 100%;
-    height: 4vh;
-}
-    
-#op{
-    height: 100%;
-    width: 2%;
-}
-    
-#deslogar{
-    margin-top: 1vh;
-    margin-right:0;
-    height: 5vh;
-    width: 28%;
-    display: inline-block;
-    margin-left: 63.9vw;
-    padding-left: 10px;
-    text-align: right;
-}
-
-textarea{
-    position: relative;
-    align-items: center;
-    width: 54vw;
-    height: 32vh;
-    margin-top: 3vh;
-    background: #C4C4C4;
-    border-radius: 50px;
-    outline: 0px auto;
-    outline-offset: 0px;
-    font-size: 2em;
-    padding: 3vh;
+    text-align: center;
 }
 
 .relogio{
-    margin-top: 1.5%;
-    font-size: 4.5em;
+    margin-top: 1%;
+    font-size: 2em;
     text-align: center;
 }
 
 .caixa{
+    margin-left: 38.6vw;
     margin-top: 10vh;
     width: 16vw;
     height: 5vw;
@@ -93,7 +59,7 @@ textarea{
     border: 4px solid #272424;
     box-sizing: border-box;
     border-radius: 50px;
-    margin-left: 35.5vw;
+    margin-bottom: 23vh;
 }
 
 .caixa1{
@@ -114,13 +80,13 @@ textarea{
 
   
 #botao {
-    height: 100%;
+    margin-top: 5vh;
     height: 6vh;
     text-align: center;
     padding: 0;
     width: 12vw;
     border-radius: 50px;
-    font-size: 2.2em;
+    font-size: 1.4em;
     outline: 0px auto;
     outline-offset: 0px;
     border: none;
@@ -166,3 +132,43 @@ textarea{
     background-color: #578fb3;
 
 }
+
+.op{
+    margin-right: 1vw;
+    height: 3vh;
+    width: 98%;
+    float: center;
+    text-align: right;
+  }
+
+  @media screen and (max-width: 480px) {
+
+    * {
+        height: 13vh;
+        font-size: 14px;
+      }
+
+    .container{
+        height: 51.2vw;
+        margin-left: 5.8vh;
+        width: 95%;
+        padding-left: 2vw;
+    }
+
+    .caixa{
+        margin-left: 31.7vw;
+        margin-top: 9vh;
+        width: 28vw;
+        height: 10vw;
+    }
+
+    #botao {
+        margin-top: 0;
+        height: 6vh;
+        width: 28vw;
+        border-radius: 50px;
+        font-size: 1.4em;
+      }
+    }
+    
+  

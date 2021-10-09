@@ -2,7 +2,7 @@
     $servidor = "localhost";
     $usuario = "root";
     $senha = "";
-    $bdname = "jetsoft";
+    $bdname = "inodevsbd";
 
     $conn = mysqli_connect($servidor, $usuario, $senha, $bdname);
 ?>

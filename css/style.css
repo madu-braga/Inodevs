@@ -3,7 +3,7 @@
   text-align: center;
   margin:0;
   font-family: Space, Helvetica, sans-serif, Mono, Arial;
-  height: 95.9vh;
+  height: 96vh;
   font-size: 10px;
 }
 
@@ -114,7 +114,7 @@
 
 .referencia {
   position: relative;
-  margin-top: 85% ;
+  margin-top: 100% ;
   display: block;
   bottom: 0;
 }

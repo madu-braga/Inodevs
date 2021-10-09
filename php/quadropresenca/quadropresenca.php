@@ -28,15 +28,15 @@
     $posto = 1;
     $colaborador = 1;
 ?>
-<div class="voltar3"><a href="../../html/controle.html">Retornar</a></div>
+<div class="voltar3"><a href="../controle.php">Retornar</a></div>
 <div class='principal'>
 <h1>Quadro de Presença</h1>
     <!-- Botão de deletar todas presenças com aviso de confirmação javascript-->
     <a href="javascript: if(confirm('Tem certeza que deseja deletar todos os registros de presença? Essa ação é apenas indicada para quando alterar o mês e todos os registros estiverem salvos em um backup/relatório. ')) 
-    location.href='resetar.php'" class="resetar">Deletar os registros</a>
+    location.href='resetar.php'" class="resetar"><font color="#000">Deletar os registros</a>
 
     <!-- Input de pesquisa -->
-        <input type="text" name="pesquisar" id="pesquisar" placeholder="Pesquisar posto de trabalho..." onkeyup="pesquisar()"> 
+        <input type="text" name="pesquisar" id="pesquisar" placeholder="&nbsp;Pesquisar posto de trabalho..." onkeyup="pesquisar()"> 
 
     <?php 
         // Mensagem de sucesso ou falha de alguma ação (editar/deletar)

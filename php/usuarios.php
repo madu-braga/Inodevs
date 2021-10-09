@@ -17,7 +17,7 @@
 
 <body>
     <div class="m-box">
-        <a href="../html/controle.html"><input  id="btn-submit1" type="submit" value="Retornar"></a>
+        <a href="controle.php"><input  id="btn-submit1" type="submit" value="Retornar"></a>
     </div>
     <br><br><br>
 
@@ -43,12 +43,12 @@
                 <input type="text" name="login" id="login" placeholder="Ex:1524642597" required>
             </div>
       
-            <div class="half-box">
+            <div class="full-box">
                 <label for="cpf">Email</label><br>
                 <input type="email" name="email" id="email" placeholder="Ex.:julia@gmail.com" required>
             </div>
 
-            <div class="half-box">
+            <div class="full-box">
                 <label for="funcao">Senha</label>
                 <input type="password" name="senha" id="senha" placeholder="Digite a senha" required>
             </div>   

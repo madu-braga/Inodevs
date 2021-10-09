@@ -17,9 +17,10 @@
 </head>
 <body>
     <div class="m-box">
-        <a href="../html/controle.html"><input  id="btn-submit1" type="submit" value="Retornar"></a>
+        <a href="controle.php"><input  id="btn-submit1" type="submit" value="Retornar"></a>
     </div>
     <br><br><br>
+
     <div id="main-container">
         <h1>Cadastro de Colaborador</h1><BR>
         <form  method="POST" action="bdcolaborador.php">
